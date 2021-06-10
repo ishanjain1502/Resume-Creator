@@ -1,0 +1,17 @@
+.app-container{
+    display: flex;
+    flex-direction: flex;
+    justify-content: space-between;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    width: 50%;
+}
+.app-container input,button {
+    margin: 1rem;
+    width: 80%;
+    padding: 0.5rem 0.3rem;
+}
