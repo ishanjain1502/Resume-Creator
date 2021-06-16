@@ -39,14 +39,14 @@ function Address() {
     <View style={styles.container}>
       <View style={styles.box}>
         <Link style={styles.link} href="#">
-          gulshanaggarwal333@gmail.com
+          gxyz@gmail.com
         </Link>
       </View>
       <View style={styles.box}>
-        <Text style={styles.text}>6378880357</Text>
+        <Text style={styles.text}>xx00xx00xx</Text>
       </View>
       <View style={styles.box}>
-        <Text style={styles.text}>Alwar,India</Text>
+        <Text style={styles.text}>India</Text>
       </View>
       <View style={styles.box}>
         <Link style={styles.link} href="#">
